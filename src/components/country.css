@@ -1,0 +1,14 @@
+.select-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    row-gap: 10px;
+}
+
+.select-box-item {
+    margin: 0 10px;
+}
+
+.statement {
+    margin: 20px 0;
+}
